@@ -5,6 +5,7 @@
 // URL : https://www.linkedin.com/in/sumangangopadhyay/ 
 // DATE : 8-Oct-2018
 // Caveats : Connection to the MySQL database has to be done before executing this program
+// # Copyright © 2018 Suman Gangopadhyay
 
 //Connection to the MySQL Database
   $ip = "localhost";
